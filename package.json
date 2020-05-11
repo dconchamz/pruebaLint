@@ -16,8 +16,10 @@
     "url": "https://github.com/dconchamz/pruebaLint/issues"
   },
   "homepage": "https://github.com/dconchamz/pruebaLint#readme",
-  "dependencies": {
+  "dependencies": {},
+  "devDependencies": {
     "@commitlint/cli": "^8.3.5",
-    "@commitlint/config-conventional": "^8.3.4"
+    "@commitlint/config-conventional": "^8.3.4",
+    "husky": "^4.2.5"
   }
 }
